@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cuvett-Spotify-Clone/static/css/main.1dfebec7.css",
+    "main.js": "/Cuvett-Spotify-Clone/static/js/main.562162e2.js",
+    "index.html": "/Cuvett-Spotify-Clone/index.html",
+    "static/media/PrevIcon.svg": "/Cuvett-Spotify-Clone/static/media/PrevIcon.4edb703fbfcba6bd89b3ecd42cab0db2.svg",
+    "static/media/NextIcon.svg": "/Cuvett-Spotify-Clone/static/media/NextIcon.59eea134fb6a18f1f470d85cdc10963e.svg",
+    "static/media/HomeIcon.svg": "/Cuvett-Spotify-Clone/static/media/HomeIcon.977a1713c0ac4ac723e38280d83a5339.svg",
+    "static/media/LibraryIcon.svg": "/Cuvett-Spotify-Clone/static/media/LibraryIcon.b93b8c7845c1f64f741ed45e9436add0.svg",
+    "static/media/PlayIcon.svg": "/Cuvett-Spotify-Clone/static/media/PlayIcon.1e26829e9bd09c92895c8fe6479a4de1.svg",
+    "static/media/SearchIcon.svg": "/Cuvett-Spotify-Clone/static/media/SearchIcon.83e04311c94d6d752055fad21cdc9a0d.svg",
+    "static/media/PauseIcon.svg": "/Cuvett-Spotify-Clone/static/media/PauseIcon.a53423fada6a782b48eca98b6f60dc56.svg",
+    "main.1dfebec7.css.map": "/Cuvett-Spotify-Clone/static/css/main.1dfebec7.css.map",
+    "main.562162e2.js.map": "/Cuvett-Spotify-Clone/static/js/main.562162e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfebec7.css",
+    "static/js/main.562162e2.js"
+  ]
+}
