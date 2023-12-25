@@ -1,0 +1,61 @@
+.player-playlist-container{
+    /* padding: 15px; */
+    overflow-y: scroll;
+    height: 100%;
+    width: 100%;
+    
+}
+.player-playlist-header{
+    /* margin-top: 30px; */
+    display: flex;
+    height: 42%;
+    gap: 30px;
+    align-items: center;
+    padding: 25px;
+    width: auto;
+    
+    color: #ededed;
+}
+.playlist-image-card{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    background-image: url('https://img.freepik.com/premium-photo/brightly-colored-headphones-with-splash-paint-white-background-generative-ai_900958-46513.jpg');
+    background-size: cover;
+}
+.playlist-body p{
+    font-size: 1rem;
+    font-weight: 500;
+}
+.playlist-body h1{
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.playlist-list{
+    
+   color: #dcdcdc;
+   display: flex; 
+   padding: 20px;
+   /* height: 5%; */
+   
+   
+}
+.playlist-list .playlist-list-id{
+    width: 10%;
+    cursor: pointer;
+}
+.playlist-list .playlist-list-title{
+    width: 40%;
+    cursor: pointer;
+}
+.playlist-list .playlist-list-album{
+    width: 40%;
+}
+.playlist-list .playlist-list-duration{
+    width: 10%;
+}
+.playlist-list-container{
+    height: 55%;
+    
+}
